@@ -24,7 +24,7 @@ body {
     border-radius: 50%; /* Hace que la imagen sea circular */
     position: absolute; /* Posiciona la imagen */
     top: 0px; /* Distancia desde la parte superior */
-    left: 10px; /* Distancia desde la izquierda */
+    left: 15px; /* Distancia desde la izquierda */
     object-fit: cover; /* Recorta la imagen para que se ajuste a la forma */
 }
 
